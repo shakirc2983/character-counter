@@ -1,0 +1,28 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+.container{
+	padding: 5px;
+	width: 100%;	
+	text-align: center;
+}
+
+#prompt {
+	padding-top: 15px;
+	font-size: 20px;
+}
+
+#textContent {
+	resize: vertical;
+	padding: 12px 20px;
+	font-size: 10pt;
+    height: 500px;
+    width : 70%;
+   
+   }
+
+  
